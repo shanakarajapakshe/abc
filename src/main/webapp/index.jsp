@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1>Welcome to the Cab Booking System</h1>
-<form id="bookingForm">
+<form id="bookingform">
     <label for="name">Customer Name:</label>
     <input type="text" id="name" name="name" required>
 
